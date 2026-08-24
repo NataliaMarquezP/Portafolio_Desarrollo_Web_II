@@ -93,22 +93,23 @@ Puede ejecutarse utilizando:
 
 ### Inicio
 
-![Inicio](Capturas%20de%20la%20pagina%20webnicio.png
+![InicioCaptura_Inicio.png
 
 ### Experiencia
 
-![Experiencia](Capturas%20de%20la%20paginaExperiencia.png
+![Exper/Captura_Experiencia.png
 
 ### Habilidades
 
-![Habilidades](Capturas%20de%20la%20pagina%20web/Captura_h
+captura/Captura_habilidades.png
+
 ### Proyectos
 
-![Proyectos](Capturas%20de%20la%20pagina%20web/Captura_
+![Prora/Captura_proyectos.png
 
 ### Contacto
 
-![Contacto](Capturas%20de%20la%20pagina%20web/Capt.png
+![Contacto](captcontacto.png
 
 ## 🎯 Objetivos del Proyecto
 
