@@ -91,6 +91,21 @@ Puede ejecutarse utilizando:
 
 ## 📸 Capturas
 
+### Inicio
+![Inicio](Capturas%20de%20la20web/Captura_Inicio.png
+
+### Experiencia
+![Experiencia](Capturas%20de%20la%Captura_Experiencia.png
+
+### Habilidades
+![Habilidades](Capturas%20de%20la%Captura_habilidades.png
+
+### Proyectos
+![Proyectos](Capturas%20de%20la%20Captura_proyectos.png
+
+### Contacto
+![Contacto](Capturas%20de%20la%20pagina%a_contacto.png
+
 Aquí puedes incluir imágenes de tu portafolio.
 
 ### Página principal
