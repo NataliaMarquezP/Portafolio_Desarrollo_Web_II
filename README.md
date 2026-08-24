@@ -91,11 +91,24 @@ Puede ejecutarse utilizando:
 
 ## 📸 Capturas
 
-Aquí puedes incluir imágenes de tu portafolio.
+### Inicio
 
-### Página principal
+![Inicio](Capturas%20de%20la%20pagina%20webnicio.png
 
-![Inicio/perfil.png
+### Experiencia
+
+![Experiencia](Capturas%20de%20la%20paginaExperiencia.png
+
+### Habilidades
+
+![Habilidades](Capturas%20de%20la%20pagina%20web/Captura_h
+### Proyectos
+
+![Proyectos](Capturas%20de%20la%20pagina%20web/Captura_
+
+### Contacto
+
+![Contacto](Capturas%20de%20la%20pagina%20web/Capt.png
 
 ## 🎯 Objetivos del Proyecto
 
