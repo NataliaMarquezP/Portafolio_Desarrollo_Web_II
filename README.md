@@ -93,23 +93,28 @@ Puede ejecutarse utilizando:
 
 ### Inicio
 
-![InicioCaptura_Inicio.png
+<img width="1806" height="912" alt="image" src="https://github.com/user-attachments/assets/ed2898d3-6de8-4284-a7a3-8c788253fc79" />
+
 
 ### Experiencia
 
-![Exper/Captura_Experiencia.png
+<img width="1801" height="878" alt="image" src="https://github.com/user-attachments/assets/1f7931ec-1e2d-49c7-8c72-eb97507a9d4b" />
+
 
 ### Habilidades
 
-captura/Captura_habilidades.png
+<img width="1816" height="895" alt="image" src="https://github.com/user-attachments/assets/90131d29-2a92-4edd-89d3-a6b55a37ceff" />
+
 
 ### Proyectos
 
-![Prora/Captura_proyectos.png
+<img width="1813" height="908" alt="image" src="https://github.com/user-attachments/assets/ed8a62b0-6f1b-424b-b2cd-9077e7bb672c" />
+
 
 ### Contacto
 
-![Contacto](captcontacto.png
+<img width="1850" height="901" alt="image" src="https://github.com/user-attachments/assets/21522106-c9e7-44f2-99ed-7278d1ef9749" />
+
 
 ## 🎯 Objetivos del Proyecto
 
