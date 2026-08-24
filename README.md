@@ -92,25 +92,23 @@ Puede ejecutarse utilizando:
 ## 📸 Capturas
 
 ### Inicio
-![Inicio](Capturas%20de%20la20web/Captura_Inicio.png
+
+![Inicio](Capturas%20de%20la%20pagina%20webnicio.png
 
 ### Experiencia
-![Experiencia](Capturas%20de%20la%Captura_Experiencia.png
+
+![Experiencia](Capturas%20de%20la%20paginaExperiencia.png
 
 ### Habilidades
-![Habilidades](Capturas%20de%20la%Captura_habilidades.png
 
+![Habilidades](Capturas%20de%20la%20pagina%20web/Captura_h
 ### Proyectos
-![Proyectos](Capturas%20de%20la%20Captura_proyectos.png
+
+![Proyectos](Capturas%20de%20la%20pagina%20web/Captura_
 
 ### Contacto
-![Contacto](Capturas%20de%20la%20pagina%a_contacto.png
 
-Aquí puedes incluir imágenes de tu portafolio.
-
-### Página principal
-
-![Inicio/perfil.png
+![Contacto](Capturas%20de%20la%20pagina%20web/Capt.png
 
 ## 🎯 Objetivos del Proyecto
 
