@@ -8,13 +8,16 @@ Este proyecto corresponde a un portafolio web desarrollado utilizando tecnologí
 
 ## 🚀 Tecnologías Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- JSP (Java Server Pages)
-- Bootstrap 5
-- Apache Maven
-- Java
+HTML5
+CSS3
+JavaScript
+Bootstrap 5
+Java
+JSP (JavaServer Pages)
+MySQL
+JDBC
+Apache Maven
+Git y GitHub
 
 ## 📂 Estructura del Proyecto
 
@@ -51,14 +54,13 @@ Portafolio_Desarrollo_Web_II
 
 ## ✨ Funcionalidades
 
-- Presentación personal y profesional.
-- Sección de formación académica.
-- Experiencia laboral.
-- Visualización de proyectos destacados.
-- Habilidades técnicas.
+- Diseño adaptable a distintos tamaños de pantalla.
+- Presentación de experiencia y formación académica.
+- Sección de habilidades informáticas.
+- Exhibición de proyectos.
 - Formulario de contacto.
-- Diseño adaptable a diferentes dispositivos.
-- Navegación intuitiva y moderna.
+- Conexión con una base de datos MySQL.
+- Navegación entre diferentes secciones del portafolio.
 
 ## 💻 Instalación y Ejecución
 
