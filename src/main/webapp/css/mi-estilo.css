@@ -1,0 +1,39 @@
+/* Custom Styles for mi-proyecto-bootstrap */
+
+/* Ajustes generales de la página */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #212529;
+}
+
+/* Tarjeta contenedora de resultados */
+.card {
+    border: none;
+    border-radius: 0.75rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    overflow: hidden;
+}
+
+.card-header {
+    border-bottom: 1px solid #e9ecef;
+    padding: 1rem 1.25rem;
+}
+
+/* Tablas estilizadas */
+.table {
+    margin-bottom: 0;
+}
+
+.table thead th {
+    background-color: #f1f3f5;
+    color: #495057;
+    font-weight: 600;
+    border-bottom: 2px solid #dee2e6;
+}
+
+/* Personalización de alertas de estado */
+.alert {
+    border-radius: 0.5rem;
+    font-weight: 500;
+}
